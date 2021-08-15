@@ -1,0 +1,803 @@
+[
+    {
+      "Place": 1,
+      "Competitor": "Johannes VETTER",
+      "DOB": "26 MAR 1993",
+      "Nat": "GER",
+      "Score": 1417,
+      "Event": "Javelin Throw"
+    },
+    {
+      
+      "Place": 2,
+      "Competitor": "Neeraj CHOPRA",
+      "DOB": "24 DEC 1997",
+      "Nat": "IND",
+      "Score": 1400,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 3,
+      "Competitor": "Chao-Tsun CHENG",
+      "DOB": "17 OCT 1993",
+      "Nat": "TPE",
+      "Score": 1354,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 4,
+      "Competitor": "Andreas HOFMANN",
+      "DOB": "16 DEC 1991",
+      "Nat": "GER",
+      "Score": 1347,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 5,
+      "Competitor": "Anderson PETERS",
+      "DOB": "21 OCT 1997",
+      "Nat": "GRN",
+      "Score": 1344,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 6,
+      "Competitor": "Marcin KRUKOWSKI",
+      "DOB": "14 JUN 1992",
+      "Nat": "POL",
+      "Score": 1332,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 7,
+      "Competitor": "Jakub VADLEJCH",
+      "DOB": "10 OCT 1990",
+      "Nat": "CZE",
+      "Score": 1307,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 8,
+      "Competitor": "Thomas RÖHLER",
+      "DOB": "30 SEP 1991",
+      "Nat": "GER",
+      "Score": 1306,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 9,
+      "Competitor": "Julian WEBER",
+      "DOB": "29 AUG 1994",
+      "Nat": "GER",
+      "Score": 1291,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 10,
+      "Competitor": "Keshorn WALCOTT",
+      "DOB": "02 APR 1993",
+      "Nat": "TTO",
+      "Score": 1274,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 11,
+      "Competitor": "Edis MATUSEVIČIUS",
+      "DOB": "30 JUN 1996",
+      "Nat": "LTU",
+      "Score": 1268,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 12,
+      "Competitor": "Kim AMB",
+      "DOB": "31 JUL 1990",
+      "Nat": "SWE",
+      "Score": 1256,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 13,
+      "Competitor": "Lassi ETELÄTALO",
+      "DOB": "30 APR 1988",
+      "Nat": "FIN",
+      "Score": 1254,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 14,
+      "Competitor": "Julius YEGO",
+      "DOB": "04 JAN 1989",
+      "Nat": "KEN",
+      "Score": 1248,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 15,
+      "Competitor": "Andrian MARDARE",
+      "DOB": "20 JUN 1995",
+      "Nat": "MDA",
+      "Score": 1228,
+      "Event": "Javelin Throw"
+    },
+    {
+     "Place": 16,
+     "Competitor": "Magnus KIRT",
+     "DOB": "10 APR 1990",
+     "Nat": "EST",
+     "Score": 1225,
+     "Event": "Javelin Throw"
+    },
+    {
+      "Place": 17,
+      "Competitor": "Gatis ČAKŠS",
+      "DOB": "13 JUN 1995",
+      "Nat": "LAT",
+      "Score": 1221,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 18,
+      "Competitor": "Shivpal SINGH",
+      "DOB": "06 JUL 1995",
+      "Nat": "IND",
+      "Score": 1215,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 19,
+      "Competitor": "Norbert RIVASZ-TÓTH",
+      "DOB": "06 MAY 1996",
+      "Nat": "HUN",
+      "Score": 1211,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 20,
+      "Competitor": "Michael SHUEY",
+      "DOB": "02 FEB 1994",
+      "Nat": "USA",
+      "Score": 1205,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 21,
+      "Competitor": "Aliaksei KATKAVETS",
+      "DOB": "07 JUN 1998",
+      "Nat": "BLR",
+      "Score": 1204,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 22,
+      "Competitor": "Takuto KOMINAMI",
+      "DOB": "26 JUL 1995",
+      "Nat": "JPN",
+      "Score": 1202,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 23,
+      "Competitor": "Arshad NADEEM",
+      "DOB": "02 JAN 1997",
+      "Nat": "PAK",
+      "Score": 1201,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 24,
+      "Competitor": "Curtis THOMPSON",
+      "DOB": "08 FEB 1996",
+      "Nat": "USA",
+      "Score": 1196,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 25,
+      "Competitor": "Pavel MIALESHKA",
+      "DOB": "24 NOV 1992",
+      "Nat": "BLR",
+      "Score": 1190,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 26,
+      "Competitor": "Vítězslav VESELÝ",
+      "DOB": "27 FEB 1983",
+      "Nat": "CZE",
+      "Score": 1188,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 27,
+      "Competitor": "Cyprian MRZYGŁÓD",
+      "DOB": "02 FEB 1998",
+      "Nat": "POL",
+      "Score": 1187,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 28,
+      "Competitor": "Alexandru Mihaita NOVAC",
+      "DOB": "24 MAR 1997",
+      "Nat": "ROU",
+      "Score": 1187,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 29,
+      "Competitor": "Antti RUUSKANEN",
+      "DOB": "21 FEB 1984",
+      "Nat": "FIN",
+      "Score": 1178,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 30,
+      "Competitor": "Odei JAINAGA",
+      "DOB": "14 OCT 1997",
+      "Nat": "ESP",
+      "Score": 1176,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 31,
+      "Competitor": "Ihab ABDELRAHMAN",
+      "DOB": "01 MAY 1989",
+      "Nat": "EGY",
+      "Score": 1176,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 32,
+      "Competitor": "Rolands ŠTROBINDERS",
+      "DOB": "14 APR 1992",
+      "Nat": "LAT",
+      "Score": 1175,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 33,
+      "Competitor": "Shih-Feng HUANG",
+      "DOB": "02 MAR 1992",
+      "Nat": "TPE",
+      "Score": 1171,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 34,
+      "Competitor": "Riley DOLEZAL",
+      "DOB": "16 NOV 1985",
+      "Nat": "USA",
+      "Score": 1170,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 35,
+      "Competitor": "Rocco VAN ROOYEN",
+      "DOB": "23 DEC 1992",
+      "Nat": "RSA",
+      "Score": 1167,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 36,
+      "Competitor": "Dmitriy TARABIN",
+      "DOB": "29 OCT 1991",
+      "Nat": "RUS",
+      "Score": 1167,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 37,
+      "Competitor": "Kenji OGURA",
+      "DOB": "08 JUN 1995",
+      "Nat": "JPN",
+      "Score": 1162,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 38,
+      "Competitor": "Bernhard SEIFERT",
+      "DOB": "15 FEB 1993",
+      "Nat": "GER",
+      "Score": 1162,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 39,
+      "Competitor": "Roderick Genki DEAN",
+      "DOB": "30 DEC 1991",
+      "Nat": "JPN",
+      "Score": 1160,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 40,
+      "Competitor": "Toni KUUSELA",
+      "DOB": "21 JAN 1994",
+      "Nat": "FIN",
+      "Score": 1152,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 41,
+      "Competitor": "Ryohei ARAI",
+      "DOB": "23 JUN 1991",
+      "Nat": "JPN",
+      "Score": 1150,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 42,
+      "Competitor": "Qizhen LIU",
+      "DOB": "17 SEP 1995",
+      "Nat": "CHN",
+      "Score": 1149,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 43,
+      "Competitor": "Manu QUIJERA",
+      "DOB": "13 JAN 1998",
+      "Nat": "ESP",
+      "Score": 1146,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 44,
+      "Competitor": "Leandro RAMOS",
+      "DOB": "21 SEP 2000",
+      "Nat": "POR",
+      "Score": 1143,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 45,
+      "Competitor": "Liam O'BRIEN",
+      "DOB": "13 APR 1996",
+      "Nat": "AUS",
+      "Score": 1141,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 46,
+      "Competitor": "Teura'itera'i TUPAIA",
+      "DOB": "06 FEB 2000",
+      "Nat": "FRA",
+      "Score": 1138,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 47,
+      "Competitor": "Qun MA",
+      "DOB": "08 FEB 1994",
+      "Nat": "CHN",
+      "Score": 1137,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 48,
+      "Competitor": "Hubert CHMIELAK",
+      "DOB": "19 JUN 1989",
+      "Nat": "POL",
+      "Score": 1137,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 49,
+      "Competitor": "Johan GROBLER",
+      "DOB": "06 AUG 1997",
+      "Nat": "RSA",
+      "Score": 1135,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 50,
+      "Competitor": "Topias LAINE",
+      "DOB": "12 JUL 2001",
+      "Nat": "FIN",
+      "Score": 1135,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 51,
+      "Competitor": "Oliver HELANDER",
+      "DOB": "01 JAN 1997",
+      "Nat": "FIN",
+      "Score": 1134,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 52,
+      "Competitor": "Oleksandr NYCHYPORCHUK",
+      "DOB": "14 APR 1992",
+      "Nat": "UKR",
+      "Score": 1134,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 53,
+      "Competitor": "Arley IBARGUEN",
+      "DOB": "17 OCT 1982",
+      "Nat": "COL",
+      "Score": 1131,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 54,
+      "Competitor": "Sumedha RANASINGHE",
+      "DOB": "02 OCT 1991",
+      "Nat": "SRI",
+      "Score": 1130,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 55,
+      "Competitor": "Patriks GAILUMS",
+      "DOB": "10 MAY 1998",
+      "Nat": "LAT",
+      "Score": 1130,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 56,
+      "Competitor": "Mark SLAVOV",
+      "DOB": "17 MAR 1994",
+      "Nat": "BUL",
+      "Score": 1129,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 57,
+      "Competitor": "Emin ÖNCEL",
+      "DOB": "01 MAY 1997",
+      "Nat": "TUR",
+      "Score": 1128,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 58,
+      "Competitor": "Dagbjartur Dadi JONSSON",
+      "DOB": "13 NOV 1997",
+      "Nat": "ISL",
+      "Score": 1127,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 59,
+      "Competitor": "Billi JULIO LÓPEZ",
+      "DOB": "14 FEB 1996",
+      "Nat": "VEN",
+      "Score": 1127,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 60,
+      "Competitor": "Mateusz KWAŚNIEWSKI",
+      "DOB": "16 JUL 1995",
+      "Nat": "POL",
+      "Score": 1124,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 61,
+      "Competitor": "Phil-Mar VAN RENSBURG",
+      "DOB": "23 JUN 1989",
+      "Nat": "RSA",
+      "Score": 1122,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 62,
+      "Competitor": "Boris BEZDOLNIY",
+      "DOB": "01 APR 1997",
+      "Nat": "RUS",
+      "Score": 1121,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 63,
+      "Competitor": "Vladislav PANASENKOV",
+      "DOB": "23 MAY 1996",
+      "Nat": "RUS",
+      "Score": 1121,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 64,
+      "Competitor": "Roberto ORLANDO",
+      "DOB": "05 AUG 1995",
+      "Nat": "ITA",
+      "Score": 1120,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 65,
+      "Competitor": "Simon WIELAND",
+      "DOB": "16 DEC 2000",
+      "Nat": "SUI",
+      "Score": 1120,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 66,
+      "Competitor": "Jarmo MARTTILA",
+      "DOB": "24 OCT 1992",
+      "Nat": "FIN",
+      "Score": 1120,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 67,
+      "Competitor": "Dejan MILEUSNIĆ",
+      "DOB": "16 NOV 1991",
+      "Nat": "BIH",
+      "Score": 1118,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 68,
+      "Competitor": "Rohit YADAV",
+      "DOB": "06 JUN 2001",
+      "Nat": "IND",
+      "Score": 1113,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 69,
+      "Competitor": "Timothy HERMAN",
+      "DOB": "19 OCT 1990",
+      "Nat": "BEL",
+      "Score": 1111,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 70,
+      "Competitor": "Alex Toroitich KIPROTICH",
+      "DOB": "10 OCT 1994",
+      "Nat": "KEN",
+      "Score": 1110,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 71,
+      "Competitor": "Sahil SILWAL",
+      "DOB": "17 DEC 2000",
+      "Nat": "IND",
+      "Score": 1110,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 72,
+      "Competitor": "Hamish PEACOCK",
+      "DOB": "15 OCT 1990",
+      "Nat": "AUS",
+      "Score": 1109,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 73,
+      "Competitor": "Nikolay ORLOV",
+      "DOB": "07 JAN 1999",
+      "Nat": "ANA",
+      "Score": 1108,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 74,
+      "Competitor": "Vedran SAMAC",
+      "DOB": "22 JAN 1990",
+      "Nat": "SRB",
+      "Score": 1108,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 75,
+      "Competitor": "Gen NAGANUMA",
+      "DOB": "31 MAR 1998",
+      "Nat": "JPN",
+      "Score": 1108,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 76,
+      "Competitor": "Rajender SINGH",
+      "DOB": "05 APR 1986",
+      "Nat": "IND",
+      "Score": 1108,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 77,
+      "Competitor": "Jami KINNUNEN",
+      "DOB": "31 MAR 1995",
+      "Nat": "FIN",
+      "Score": 1107,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 78,
+      "Competitor": "Sindri Hrafn GUÐMUNDSSON",
+      "DOB": "21 NOV 1995",
+      "Nat": "ISL",
+      "Score": 1107,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 79,
+      "Competitor": "Cameron MCENTYRE",
+      "DOB": "10 FEB 1999",
+      "Nat": "AUS",
+      "Score": 1105,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 80,
+      "Competitor": "Nash LOWIS",
+      "DOB": "06 NOV 1999",
+      "Nat": "AUS",
+      "Score": 1102,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 81,
+      "Competitor": "Petr FRYDRYCH",
+      "DOB": "13 JAN 1988",
+      "Nat": "CZE",
+      "Score": 1101,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 82,
+      "Competitor": "Capers WILLIAMSON",
+      "DOB": "13 OCT 1992",
+      "Nat": "USA",
+      "Score": 1100,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 83,
+      "Competitor": "Shakiel WAITHE",
+      "DOB": "10 JUN 1995",
+      "Nat": "TTO",
+      "Score": 1097,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 84,
+      "Competitor": "Yuta SAKIYAMA",
+      "DOB": "05 APR 1996",
+      "Nat": "JPN",
+      "Score": 1097,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 85,
+      "Competitor": "Qinggang ZHAO",
+      "DOB": "24 JUL 1985",
+      "Nat": "CHN",
+      "Score": 1096,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 86,
+      "Competitor": "Teemu WIRKKALA",
+      "DOB": "14 JAN 1984",
+      "Nat": "FIN",
+      "Score": 1095,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 87,
+      "Competitor": "Nicolas QUIJERA",
+      "DOB": "24 JUN 1996",
+      "Nat": "ESP",
+      "Score": 1094,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 88,
+      "Competitor": "Yashvir SINGH",
+      "DOB": "22 OCT 2001",
+      "Nat": "IND",
+      "Score": 1094,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 89,
+      "Competitor": "Tom MEIER",
+      "DOB": "12 MAY 1997",
+      "Nat": "GER",
+      "Score": 1093,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 90,
+      "Competitor": "Jiajie XU",
+      "DOB": "08 OCT 1997",
+      "Nat": "CHN",
+      "Score": 1091,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 91,
+      "Competitor": "Jaroslav JÍLEK",
+      "DOB": "22 OCT 1989",
+      "Nat": "CZE",
+      "Score": 1089,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 92,
+      "Competitor": "Dimitris TSITSOS",
+      "DOB": "27 SEP 2000",
+      "Nat": "GRE",
+      "Score": 1089,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 93,
+      "Competitor": "Samuel KURE",
+      "DOB": "20 DEC 1993",
+      "Nat": "NGR",
+      "Score": 1086,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 94,
+      "Competitor": "Luiz Mauricio DA SILVA",
+      "DOB": "17 JAN 2000",
+      "Nat": "BRA",
+      "Score": 1086,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 95,
+      "Competitor": "Rankoth PEDIGE W.L.D.",
+      "DOB": "14 MAY 1988",
+      "Nat": "SRI",
+      "Score": 1085,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 96,
+      "Competitor": "Valery IZOTAU",
+      "DOB": "12 APR 1997",
+      "Nat": "BLR",
+      "Score": 1081,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 97,
+      "Competitor": "Mart TEN BERGE",
+      "DOB": "27 APR 1991",
+      "Nat": "NED",
+      "Score": 1080,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 98,
+      "Competitor": "Tanel LAANMÄE",
+      "DOB": "29 SEP 1989",
+      "Nat": "EST",
+      "Score": 1080,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 99,
+      "Competitor": "Maged Mohser EL BADRY",
+      "DOB": "29 SEP 1995",
+      "Nat": "EGY",
+      "Score": 1078,
+      "Event": "Javelin Throw"
+    },
+    {
+      "Place": 100,
+      "Competitor": "Sami PELTOMÄKI",
+      "DOB": "11 JAN 1991",
+      "Nat": "FIN",
+      "Score": 1077,
+      "Event": "Javelin Throw"
+    }
+   ]
